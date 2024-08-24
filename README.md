@@ -3,6 +3,7 @@
 This project is part of the CMPG 323 course, focusing on implementing a web-based application using ASP.NET Core MVC. The primary goal is to manage and track projects using a structured design pattern, such as the repository pattern. The application interacts with a SQL Server database to perform CRUD operations (Create, Read, Update, Delete) on project data.
 ![Screenshot 2024-08-24 150450](https://github.com/user-attachments/assets/f9067f26-079c-4d17-a764-2a8515004f63)
 ![Screenshot 2024-08-24 151535](https://github.com/user-attachments/assets/8f7824d6-b94f-45b8-a3ee-d56b3bd09c25)
+![Screenshot 2024-08-24 151553](https://github.com/user-attachments/assets/15150dc2-ea9c-457c-8f1e-3a2efcbda5b8)
 
 ## Features
 Project Management: Create, view, edit, and delete projects.
